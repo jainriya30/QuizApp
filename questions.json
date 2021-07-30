@@ -1,0 +1,18 @@
+[
+    {
+    "ques": "Capital of India is??",
+    "choice1": "Mumbai",
+    "choice2": "Delhi",
+    "choice3": "Banglore",
+    "choice4": "Rajasthan",
+    "answer":2
+    },
+    {
+    "ques": "Factorial of 5 is??",
+    "choice1": "125",
+    "choice2": "225",
+    "choice3": "100",
+    "choice4": "25",
+    "answer":1 
+    }
+]
